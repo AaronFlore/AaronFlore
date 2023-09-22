@@ -3,8 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AaronFlore.AaronFlore)
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 class SoftwareEngineer:
 
