@@ -9,7 +9,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Aaron Floreani"
         self.role = "Software Engineer"
-        self.interests = ["Traveling", "Finance", "Bouldering", "Guitar", "AI, "Wildlife", "Surfing", "Film"]
+        self.interests = ["Traveling", "Finance", "Bouldering", "Guitar", "AI", "Wildlife", "Surfing", "Film"]
 
     def say_hi(self):
         print("Hi! Thanks for checking out my Github. Feel free to take a look around.")
