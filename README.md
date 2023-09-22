@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aaron! Welcome to my Github!
+# Hi 👋 I'm Aaron. Welcome to my Github!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AaronFlore.AaronFlore)
 
