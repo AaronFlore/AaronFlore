@@ -18,11 +18,11 @@ me = SoftwareEngineer()
 me.say_hi()
 ```  
 
-## 📫 Connect with me:
+## 📫 Connect With Me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/aaron-floreani/)  &nbsp; <a href="mailto:aaronfloreani@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
 
   
-## 🔧 Technologies Used in my Repos: 
+## 🔧 Technologies Used In My Repos: 
   <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
