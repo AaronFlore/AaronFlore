@@ -1,4 +1,4 @@
-# Hi 👋 My name is Aaron! Welcome to my Github.
+# Hi 👋 I'm Aaron! Welcome to my Github!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AaronFlore.AaronFlore)
 
@@ -11,22 +11,21 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Aaron Floreani"
         self.role = "Software Engineer"
-        self.interests = ["Traveling", "Finance", "Surfing", "Bouldering", "Guitar", "Wildlife"]
+        self.interests = ["Traveling", "Finance", "Bouldering", "Guitar", "Wildlife", "Surfing"]
 
     def say_hi(self):
-        print("Hi! Thanks for checking out my Github. Please check out my featured work below.")
+        print("Hi! Thanks for checking out my Github. Feel free to take a look around.")
 
 me = SoftwareEngineer()
 me.say_hi()
 ```  
 
-## 📫 Feel free to reach out me:
+## 📫 Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aaron-floreani/)  &nbsp; <a href="mailto:aaronfloreani@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
   
-## 🔧 Technologies Featured in my Github: <br />
+## 🔧 Technologies Used in my Repos: <br />
   <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -41,6 +40,7 @@ me.say_hi()
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 </div>
 
 <!--
